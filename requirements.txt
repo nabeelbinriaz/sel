@@ -1,0 +1,7 @@
+fastapi
+pydantic
+selenium
+beautifulsoup4
+transformers
+plotly
+uvicorn
